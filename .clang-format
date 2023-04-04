@@ -1,0 +1,16 @@
+BasedOnStyle: Google
+ColumnLimit: 100
+IndentWidth: 4
+DerivePointerAlignment: false
+PointerAlignment: Left
+AlignAfterOpenBracket: BlockIndent
+AllowShortBlocksOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: All
+AllowShortLoopsOnASingleLine: false
+AllowAllParametersOfDeclarationOnNextLine: true
+BinPackParameters: false
+IndentCaseLabels: false
+IndentAccessModifiers: false
+AccessModifierOffset: -3
